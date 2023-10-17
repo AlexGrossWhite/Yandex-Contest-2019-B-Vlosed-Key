@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "B Vlosed Key/1.0.0": {
+        "runtime": {
+          "B Vlosed Key.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B Vlosed Key/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

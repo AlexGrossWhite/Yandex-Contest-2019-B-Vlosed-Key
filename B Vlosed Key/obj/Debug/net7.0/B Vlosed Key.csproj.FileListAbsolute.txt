@@ -1,0 +1,15 @@
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\bin\Debug\net7.0\B Vlosed Key.exe
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\bin\Debug\net7.0\B Vlosed Key.deps.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\bin\Debug\net7.0\B Vlosed Key.runtimeconfig.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\bin\Debug\net7.0\B Vlosed Key.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\bin\Debug\net7.0\B Vlosed Key.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\B Vlosed Key.csproj.AssemblyReference.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\B Vlosed Key.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\B Vlosed Key.AssemblyInfoInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\B Vlosed Key.AssemblyInfo.cs
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\B Vlosed Key.csproj.CoreCompileInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\B Vlosed Key.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\refint\B Vlosed Key.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\B Vlosed Key.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\B Vlosed Key.genruntimeconfig.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\B Vlosed Key\B Vlosed Key\obj\Debug\net7.0\ref\B Vlosed Key.dll
